@@ -9,7 +9,7 @@ while(true)
 			puts "\n\nPlease... ask another..."
 			redo
 		elsif continuing == "no"
-			puts "\n\nThank you for playing!"
+			puts "\n\nGet rekt m8."
 			exit(0)
 		end
 	user_q = gets.strip.downcase
